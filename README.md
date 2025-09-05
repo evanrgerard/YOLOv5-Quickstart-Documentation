@@ -2,7 +2,7 @@
 Dokumen ini berfungsi sebagai panduan singkat untuk menjalankan YOLOv5. 
 
 > [!WARNING]
-> Mohon perhatian bahwa dokumuentasi ini merupakan ringkasan dari dokumentasi yang di-publish sebetulnya. Jika ingin belajar lebih lanjut mohon mbaca pada referensi
+> Mohon perhatian bahwa dokumuentasi ini merupakan ringkasan dari dokumentasi yang di-publish sebetulnya. Jika ingin belajar lebih lanjut mohon baca dan pelajari pada bagian referensi
 
 ## 1️⃣ Clone Repository
 Unduh repo dari GitHub:
