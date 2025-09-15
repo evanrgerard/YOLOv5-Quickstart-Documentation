@@ -95,7 +95,11 @@ cv2.destroyAllWindows()
 ## 5️⃣ Hasil
 Setelah menjalankan script, Anda akan melihat jendela menampilkan gambar test1.jpg dengan bounding box dan label hasil deteksi.
 
+
+
 ---
+
+
 
 # Panduan dengan CLI
 Selain menggunakan kode, inference pada YOLOv5 juga dapat dilakukan melaui CLI.
