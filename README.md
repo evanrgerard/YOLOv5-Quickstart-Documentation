@@ -95,6 +95,8 @@ cv2.destroyAllWindows()
 ## 5️⃣ Hasil
 Setelah menjalankan script, Anda akan melihat jendela menampilkan gambar test1.jpg dengan bounding box dan label hasil deteksi.
 
+---
+
 # Panduan dengan CLI
 Selain menggunakan kode, inference pada YOLOv5 juga dapat dilakukan melaui CLI.
 
@@ -110,6 +112,11 @@ Jalankan command di bawah:
 python detect.py --weights yolov5s.pt --img 640 --conf 0.25 --source test1.jpg
 ```
 
+## 3️⃣ Lihat Hasil
+Setelah dijalankan, umumnya hasil akan disimpan pada:
+```
+YOLOv5-Quickstart-Documentation/runs/detect/exp
+```
 
 
 ## 6️⃣ Referensi
