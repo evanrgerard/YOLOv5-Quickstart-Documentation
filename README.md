@@ -95,8 +95,6 @@ cv2.destroyAllWindows()
 ## 5️⃣ Hasil
 Setelah menjalankan script, Anda akan melihat jendela menampilkan gambar test1.jpg dengan bounding box dan label hasil deteksi.
 
-<br>
-
 ---
 
 <br>
@@ -121,7 +119,6 @@ Setelah dijalankan, umumnya hasil akan disimpan pada:
 ```
 YOLOv5-Quickstart-Documentation/runs/detect/exp
 ```
-<br>
 
 ---
 
