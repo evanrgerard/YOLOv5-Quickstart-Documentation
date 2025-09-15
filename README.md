@@ -4,6 +4,11 @@ Dokumen ini berfungsi sebagai panduan singkat untuk menjalankan YOLOv5.
 > [!WARNING]
 > Mohon perhatian bahwa dokumuentasi ini merupakan ringkasan dari dokumentasi yang di-publish sebetulnya. Jika ingin belajar lebih lanjut mohon baca dan pelajari pada bagian referensi
 
+Sebelum memulai, pastikan sebelumnya sudah siapkan beberapa hal-hal berikut:
+- Siapkan akun Github.
+- Siapkan git di PC untuk clone repo ini.
+- Siapkan python dan IDE nya untuk me-run kode Python.
+
 ## 1️⃣ Clone Repository
 Unduh repo dari GitHub:
 
@@ -11,7 +16,7 @@ Unduh repo dari GitHub:
 git clone https://github.com/evanrgerard/YOLOv5-Quickstart-Documentation.git
 ```
 
-## 2️⃣ Masuk ke Direktori Repo
+## 2️⃣ Masuk ke Direktory Repo
 Pindah ke folder:
 
 ```
@@ -89,6 +94,23 @@ cv2.destroyAllWindows()
 
 ## 5️⃣ Hasil
 Setelah menjalankan script, Anda akan melihat jendela menampilkan gambar test1.jpg dengan bounding box dan label hasil deteksi.
+
+# Panduan dengan CLI
+Selain menggunakan kode, inference pada YOLOv5 juga dapat dilakukan melaui CLI.
+
+## 1️⃣ Masuk ke Direktory Repo
+Pastikan sudah ke folder:
+```
+cd YOLOv5-Quickstart-Documentation
+```
+
+## 2️⃣ Jalankan Code Detect
+Jalankan command di bawah:
+```
+python detect.py --weights yolov5s.pt --img 640 --conf 0.25 --source test1.jpg
+```
+
+
 
 ## 6️⃣ Referensi
 - https://docs.ultralytics.com/yolov5/quickstart_tutorial
