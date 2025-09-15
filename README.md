@@ -121,8 +121,13 @@ Setelah dijalankan, umumnya hasil akan disimpan pada:
 ```
 YOLOv5-Quickstart-Documentation/runs/detect/exp
 ```
+<br>
+
+---
+
+<br>
 
 
-## 6️⃣ Referensi
+# Referensi
 - https://docs.ultralytics.com/yolov5/quickstart_tutorial
 - https://youtu.be/fu2tfOV9vbY?si=b6_Vc3pbC6hWoaY9
