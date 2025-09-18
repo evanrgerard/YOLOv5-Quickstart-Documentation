@@ -6,8 +6,10 @@ Dokumen ini berfungsi sebagai panduan singkat untuk menjalankan YOLOv5.
 
 Sebelum memulai, pastikan sebelumnya sudah siapkan beberapa hal-hal berikut:
 - Siapkan akun Github.
-- Siapkan git di PC untuk clone repo ini.
-- Siapkan python dan IDE nya untuk me-run kode Python.
+- Siapkan git di PC.
+- Siapkan python > 3.8.
+- Siapkan IDE nya untuk me-run kode Python.
+- Siapkan library OpenCV
 
 ## 1️⃣ Clone Repository
 Unduh repo dari GitHub:
