@@ -1,4 +1,4 @@
-# 📘 Panduan Sederhana Menjalankan YOLOv5
+# YOLOv5-Quickstart-Documentation
 Dokumen ini berfungsi sebagai panduan singkat untuk menjalankan YOLOv5. 
 
 > [!WARNING]
